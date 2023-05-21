@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Samsung Galaxy S21",
+    "category": "electronics"
+  },
+  {
+    "name": "Apple iPhone 13",
+    "category": "electronics"
+  },
+  {
+    "name": "Motorola G Power",
+    "category": "electronics"
+  },
+  {
+    "name": "Google Pixel 6",
+    "category": "electronics"
+  },
+  {
+    "name": "OnePlus 9",
+    "category": "electronics"
+  },
+  {
+    "name": "Sony WH-1000XM4",
+    "category": "electronics"
+  },
+  {
+    "name": "Apple AirPods Pro",
+    "category": "electronics"
+  },
+  {
+    "name": "Bose QuietComfort 35 II",
+    "category": "electronics"
+  },
+  {
+    "name": "Logitech G Pro X",
+    "category": "electronics"
+  },
+  {
+    "name": "SteelSeries Arctis 7",
+    "category": "electronics"
+  },
+  {
+    "name": "Orwell's 1984",
+    "category": "books"
+  },
+  {
+    "name": "To Kill a Mockingbird",
+    "category": "books"
+  },
+  {
+    "name": "The Great Gatsby",
+    "category": "books"
+  },
+  {
+    "name": "Pride and Prejudice",
+    "category": "books"
+  },
+  {
+    "name": "Moby Dick",
+    "category": "books"
+  },
+  {
+    "name": "War and Peace",
+    "category": "books"
+  },
+  {
+    "name": "A Tale of Two Cities",
+    "category": "books"
+  },
+  {
+    "name": "Don Quixote",
+    "category": "books"
+  },
+  {
+    "name": "Ulysses",
+    "category": "books"
+  },
+  {
+    "name": "The Odyssey",
+    "category": "books"
+  },
+  {
+    "name": "Starbucks Coffee Beans",
+    "category": "coffee shop"
+  },
+  {
+    "name": "Peet's Coffee Beans",
+    "category": "coffee shop"
+  },
+  {
+    "name": "Dunkin' Donuts Coffee Beans",
+    "category": "coffee shop"
+  },
+  {
+    "name": "McCafe Coffee Beans",
+    "category": "coffee shop"
+  },
+  {
+    "name": "Lavazza Coffee Beans",
+    "category": "coffee shop"
+  },
+  {
+    "name": "Tylenol Extra Strength",
+    "category": "pharmacy"
+  },
+  {
+    "name": "Advil Liqui-Gels",
+    "category": "pharmacy"
+  },
+  {
+    "name": "Bayer Aspirin",
+    "category": "pharmacy"
+  },
+  {
+    "name": "Mucinex DM",
+    "category": "pharmacy"
+  },
+  {
+    "name": "NyQuil Cold & Flu",
+    "category": "pharmacy"
+  },
+  {
+    "name": "Skippy Peanut Butter",
+    "category": "grocery store"
+  },
+  {
+    "name": "Jif Creamy Peanut Butter",
+    "category": "grocery store"
+  },
+  {
+    "name": "Heinz Ketchup",
+    "category": "grocery store"
+  },
+  {
+    "name": "French's Classic Yellow Mustard",
+    "category": "grocery store"
+  },
+  {
+    "name": "Hellmann's Real Mayonnaise",
+    "category": "grocery store"
+  }
+]
